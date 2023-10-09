@@ -171,7 +171,7 @@ cython_debug/
 *nohup.out
 *.out
 /wandb
-/trainAcrossDatasets/train_config.py
+# /trainAcrossDatasets/train_config.py
 dataAugment/config.py
 related-works/TransDARC/source
 /trainAcrossDatasets/groundtruth/100DriverMini
