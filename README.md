@@ -1,6 +1,6 @@
 # Enhancing Cross-Dataset Performance of Distracted Driving Detection With Score-Softmax Classifier
 
-### [paper](https://arxiv.org/abs/2209.09178)
+### [paper](https://arxiv.org/abs/2310.05202)
 
 
 ## Abstract
@@ -16,10 +16,12 @@ Deep neural networks enable real-time monitoring of in-vehicle driver, facilitat
 If you find S-Softmax Classifier beneficial or relevant to your research, please kindly recognize our efforts by citing our paper:
 
 ```bibtex
-@article{Ma2022MultiTaskVT,
-  title={Multi-Task Vision Transformer for Semi-Supervised Driver Distraction Detection},
-  author={Yunsheng Ma and Ziran Wang},
-  journal={arXiv},
-  year={2022}
+@misc{duan2023enhancing,
+      title={Enhancing Cross-Dataset Performance of Distracted Driving Detection With Score-Softmax Classifier}, 
+      author={Cong Duan and Zixuan Liu and Jiahao Xia and Minghai Zhang and Jiacai Liao and Libo Cao},
+      year={2023},
+      eprint={2310.05202},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
