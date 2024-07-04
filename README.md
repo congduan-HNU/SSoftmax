@@ -1,6 +1,7 @@
 # Enhancing Cross-Dataset Performance of Distracted Driving Detection With Score-Softmax Classifier
 
 ### [paper](https://arxiv.org/abs/2310.05202)
+### [paper](https://ieeexplore.ieee.org/document/10553302)
 
 
 ## Abstract
@@ -25,3 +26,15 @@ If you find S-Softmax Classifier beneficial or relevant to your research, please
       primaryClass={cs.CV}
 }
 ```
+```bibtex
+@article{duanEnhancingCrossDatasetPerformance2024,
+  title = {Enhancing {{Cross-Dataset Performance}} of {{Distracted Driving Detection With Score Softmax Classifier}} and {{Dynamic Gaussian Smoothing Supervision}}},
+  author = {Duan, Cong and Liu, Zixuan and Xia, Jiahao and Zhang, Minghai and Liao, Jiacai and Cao, Libo},
+  year = {2024},
+  journal = {IEEE Trans. Intell. Veh.},
+  pages = {1--14},
+  issn = {2379-8904, 2379-8858},
+  doi = {10.1109/TIV.2024.3412198},
+}
+```
+
